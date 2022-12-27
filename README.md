@@ -1,6 +1,9 @@
 # Farmer-information-Website-project
-College project
+
 ![image](https://user-images.githubusercontent.com/121348131/209618297-bb1bfdea-8da7-4774-8a24-e30af58df928.png)
+
+
+
 This is a Farmer information Website project. the farmer can collect any type of information by using this website. and they can do better farming. The farmer Info website is a very important feature used to assist people Make new Research similar to Agriculture. Agriculture is the backbone of our country.
 
 some features;-
